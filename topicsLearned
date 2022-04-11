@@ -1,17 +1,19 @@
+Day 1:
 Goal of SREs is to enable the product teams to move as fast as practically possible without impacting users
 Load balancers are used to distribute requests among servers
 SLIs and SLOs
 SRE's need to determine what monitoring software to use
-Blackbox vs Whitebox monitoring 
+Blackbox vs Whitebox monitoring
 MTTF and MTTR
 SLDC
 Agile vs Waterfall
-
 MOST IMPORTANT 3 THINGS ABOUT DEVOPS:
-- Left-to-right approach
-- Right-to-left approach
-- Continuous learning and experimentation
 
+Left-to-right approach
+Right-to-left approach
+Continuous learning and experimentation
+Day 2:
 I did not attend Friday's training as I have been sick, but I will be watching the recording this week.
 
+Day 3:
 Git Commands
