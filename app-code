@@ -3,3 +3,6 @@ echo "web page"
 
 #adding a frontpage login button
 echo "new button"
+
+#fixing the issue
+echo "fix issue"
